@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:blueviolet;
+}
+
+h1{
+    text-align: center;
+    margin: 1rem;
+    font-family: cursive;
+    color: rgb(8, 24, 123);
+    font-size: 1.5rem;
+    margin-right: 35px;
+}
+
+p{
+    padding-right: 40px;
+    font-size: 1rem;
+    text-align: justify; 
+    line-height:30px;
+}
+
+div{
+    display:block;
+    margin: 20px auto;
+    background-color:rgb(232, 204, 126);
+    color: rgb(67, 62, 62);
+    padding: 20px;
+    font-size:1.2rem;
+    
+}
+
+.caixa{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+textarea{
+    border: 3px solid royalblue;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #ffffff;
+    background-color:#464882;
+    resize: none;
+    width: 900px;
+    height:30rem;
+    line-height:30px;
+    padding-top:20px;
+    text-align:center;
+    
+}
+
+button{
+    background-color:chartreuse;
+    border: 0;
+    padding: 10px;
+    margin-left: 50px;
+    border-radius:20px;
+    font-size:15px;
+    font-weight: bold;
+    color: #454141;
+    cursor: pointer;
+}
+
+hr{
+    width: 300px;
+    display: block;
+    margin: 30px auto;
+    border: 1px solid rgb(240, 76, 76);
+}
+

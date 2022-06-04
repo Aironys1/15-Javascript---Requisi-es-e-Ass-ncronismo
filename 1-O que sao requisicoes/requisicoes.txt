@@ -1,0 +1,8 @@
+O que é requisição ?
+
+1- Quando estamos digitando no google, o próprio google, 
+nos sugere algumas sugestões.
+
+2- Nosso computador faz uma requisar ao servidor do google,
+quando digitamos na url do google.
+
